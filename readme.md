@@ -1,5 +1,8 @@
 # 图书后台管理系统后端
 
+### 前端地址
+[vue-book-admin](https://github.com/duanStar/vue-book-admin)
+
 ### 初始化数据库
 
 创建数据库 book，执行book.sql
