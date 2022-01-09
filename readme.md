@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/github/issues/duanStar/book-admin-server" />
   <a href="https://github.com/duanStar/book-admin-server/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/duanStar/book-admin-server"></a>
   <a href="https://github.com/duanStar/book-admin-server/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/duanStar/book-admin-server"></a>
+  <img src="https://img.shields.io/badge/build-pass-brightgreen"/>
 </p>
 
 ### 前端地址
